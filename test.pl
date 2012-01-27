@@ -1,2 +1,2 @@
-#⁄/usr/bin/perl
-echo "Hello, world\n";
+#!/usr/bin/perl
+print "Hello, world\n";
